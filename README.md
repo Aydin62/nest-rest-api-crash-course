@@ -2,6 +2,8 @@
 <a href="https://www.traversymedia.com/">Brad Traversy's</a> excellent youtube <a href="https://www.youtube.com/watch?v=wqhNoDE6pb4">tutorial</a>
 
 
+
+
 <h1>Important</h1>
 There was actually a minor issue with the tutorial that was causing the following error at the final minutes of the course:
 
