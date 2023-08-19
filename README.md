@@ -7,6 +7,7 @@
 <h1>Notes</h1>
 
 <h2>Note 1</h2>
+
 There was actually a minor issue with the tutorial that was causing the following error at the final minutes of the course:
 
 <h6><em>Nest can't resolve dependencies of the ItemsService (?). Please make sure that the argument at index [0] is available in the AppModule context.</em></h6>
@@ -18,4 +19,5 @@ Now, I would like to acknowledge and express my sincere thanks to
 <p>Please refer to his repository in order to fully grasp the issue.</p>
 
 <h2>Note 2</h2>
-My code differs from the original one in that, instead of an online MongoDB database, I have used a local one on my machine.
+
+My code differs from the original one in that, instead of an online MongoDB database, I have used a local one on my machine (using mongosh).
