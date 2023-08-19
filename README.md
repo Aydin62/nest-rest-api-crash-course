@@ -20,4 +20,4 @@ Now, I would like to acknowledge and express my sincere thanks to
 
 <h2>Note 2</h2>
 
-My code differs from the original one in that, instead of an online MongoDB database, I have used a local one on my machine (using mongosh).
+My code differs from the original one in that, instead of an online MongoDB database, I have used a local one on my machine (using ```mongosh```).
