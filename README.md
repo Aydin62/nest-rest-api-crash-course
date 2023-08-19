@@ -19,7 +19,7 @@ Now, I would like to acknowledge and express my sincere thanks to
 
 <p>Please refer to his repository in order to fully grasp the issue.</p>
 
-<br><br>
+<br>
 
 <h2>Note 2</h2>
 
